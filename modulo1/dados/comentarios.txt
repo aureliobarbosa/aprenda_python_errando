@@ -1,0 +1,6 @@
+Os dados do arquivo owid-co2-data.csv foram obtidos neste projeto:
+https://ourworldindata.org/
+https://github.com/owid/co2-data
+
+Checar 
+https://hal.science/hal-03774285/document
