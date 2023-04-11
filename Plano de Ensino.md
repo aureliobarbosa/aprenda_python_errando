@@ -36,7 +36,7 @@ Horário: Quarta-feira de 19:00 às 20:40.  Local: Laboratório de Física e Geo
 
 As menções serão atribuídas da seguinte maneira: II (0,1 à 2,9), MI (3,0 à 4,9), MM (5,0 à 6,9), MS (7,0 à 8,9) e SS (9,0 à 10). 
 
-Bibliografia Complementar: 
+**Bibliografia Complementar:**
 
 - Real Python, https://realpython.com/. Acesso: 27/03/2023. 
 
