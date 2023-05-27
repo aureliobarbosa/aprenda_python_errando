@@ -6,7 +6,6 @@ def mdc(a,b):
     return mdc(b,a%b)
 
 def mdc_while(a,b):
-
     while b > 0:
         resto = a % b
         a = b
@@ -18,9 +17,19 @@ def mdc_for(a,b):
     menor = min(a,b)
     maior = max(a,b)
 
+    for i in range(menor,0,-1):
+        if (maior % i) == 0 and (menor % i) == 0:
+            return i
+
+# Legal para mostrar como corrigir uma função
+def mdc_for_errado(a,b):
+    menor = min(a,b)
+    maior = max(a,b)
+
     for i in range(menor-1,0,-1):
         if (maior % i) == 0 and (menor % i) == 0:
             return i
+
 
 
 if __name__ == '__main__':
