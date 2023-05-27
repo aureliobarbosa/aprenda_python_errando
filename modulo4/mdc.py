@@ -3,7 +3,8 @@ import sys
 def mdc(a,b):
     if b == 0:
         return a
-    return mdc(b,a%b)
+    resto = a%b
+    return mdc(b,resto)
 
 def mdc_while(a,b):
     while b > 0:
