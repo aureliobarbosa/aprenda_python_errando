@@ -6,7 +6,7 @@ print("Eco. Um programa que te repete!\n"
       )
 
 while True:
-    entrada = input("> ")
+    entrada = input(">")
     if entrada == 'cansei':
         break
     print(entrada, end='\n\n')
