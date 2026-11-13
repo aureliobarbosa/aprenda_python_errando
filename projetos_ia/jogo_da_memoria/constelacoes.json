@@ -1,0 +1,362 @@
+[
+  {
+    "id": "andromeda",
+    "nome": "Andrômeda",
+    "nomeLatim": "Andromeda",
+    "abreviacao": "And",
+    "imagem": "imagens/cartas/andromeda.jpg",
+    "imagemOriginal": "imagens/constelacoes/andromeda.jpg",
+    "curiosidade": "Abriga a Galáxia de Andrômeda (M31), a galáxia grande mais próxima da nossa e o objeto mais distante visível a olho nu. Na mitologia, é a princesa acorrentada salva por Perseu."
+  },
+  {
+    "id": "aquarius",
+    "nome": "Aquário",
+    "nomeLatim": "Aquarius",
+    "abreviacao": "Aqr",
+    "imagem": "imagens/cartas/aquarius.jpg",
+    "imagemOriginal": "imagens/constelacoes/aquarius.jpg",
+    "curiosidade": "Constelação do zodíaco, representa um jovem derramando água de um jarro. Nela fica a Nebulosa Helix, uma das nebulosas planetárias mais próximas."
+  },
+  {
+    "id": "aquila",
+    "nome": "Águia",
+    "nomeLatim": "Aquila",
+    "abreviacao": "Aql",
+    "imagem": "imagens/cartas/aquila.jpg",
+    "imagemOriginal": "imagens/constelacoes/aquila.jpg",
+    "curiosidade": "Sua estrela mais brilhante é Altair, um dos vértices do Triângulo de Verão. Era a águia que carregava os raios de Zeus."
+  },
+  {
+    "id": "aries",
+    "nome": "Áries (o Carneiro)",
+    "nomeLatim": "Aries",
+    "abreviacao": "Ari",
+    "imagem": "imagens/cartas/aries.jpg",
+    "imagemOriginal": "imagens/constelacoes/aries.jpg",
+    "curiosidade": "Constelação do zodíaco que representa o carneiro do velo de ouro. Suas estrelas são fracas; a principal é Hamal."
+  },
+  {
+    "id": "auriga",
+    "nome": "Cocheiro",
+    "nomeLatim": "Auriga",
+    "abreviacao": "Aur",
+    "imagem": "imagens/cartas/auriga.jpg",
+    "imagemOriginal": "imagens/constelacoes/auriga.jpg",
+    "curiosidade": "Tem Capela, uma das estrelas mais brilhantes do céu do norte. Suas estrelas formam um pentágono atravessado pela Via Láctea."
+  },
+  {
+    "id": "bootes",
+    "nome": "Boieiro",
+    "nomeLatim": "Boötes",
+    "abreviacao": "Boo",
+    "imagem": "imagens/cartas/bootes.jpg",
+    "imagemOriginal": "imagens/constelacoes/bootes.jpg",
+    "curiosidade": "Contém Arcturus, gigante alaranjada e a estrela mais brilhante do hemisfério celeste norte. Seu desenho lembra uma pipa."
+  },
+  {
+    "id": "cancer",
+    "nome": "Câncer (o Caranguejo)",
+    "nomeLatim": "Cancer",
+    "abreviacao": "Cnc",
+    "imagem": "imagens/cartas/cancer.jpg",
+    "imagemOriginal": "imagens/constelacoes/cancer.jpg",
+    "curiosidade": "A mais apagada do zodíaco. Guarda o aglomerado do Presépio (M44), que a olho nu parece uma manchinha nebulosa."
+  },
+  {
+    "id": "canis-major",
+    "nome": "Cão Maior",
+    "nomeLatim": "Canis Major",
+    "abreviacao": "CMa",
+    "imagem": "imagens/cartas/canis-major.jpg",
+    "imagemOriginal": "imagens/constelacoes/canis-major.jpg",
+    "curiosidade": "Tem Sirius, a estrela mais brilhante de todo o céu noturno. É um dos cães de caça que seguem Órion."
+  },
+  {
+    "id": "canis-minor",
+    "nome": "Cão Menor",
+    "nomeLatim": "Canis Minor",
+    "abreviacao": "CMi",
+    "imagem": "imagens/cartas/canis-minor.jpg",
+    "imagemOriginal": "imagens/constelacoes/canis-minor.jpg",
+    "curiosidade": "Pequena, formada praticamente por duas estrelas, sendo Prócion a principal. É o segundo cão de Órion."
+  },
+  {
+    "id": "capricornus",
+    "nome": "Capricórnio",
+    "nomeLatim": "Capricornus",
+    "abreviacao": "Cap",
+    "imagem": "imagens/cartas/capricornus.jpg",
+    "imagemOriginal": "imagens/constelacoes/capricornus.jpg",
+    "curiosidade": "Representa uma cabra com cauda de peixe. É uma das constelações mais antigas registradas e deu nome ao Trópico de Capricórnio."
+  },
+  {
+    "id": "carina",
+    "nome": "Carena (a Quilha)",
+    "nomeLatim": "Carina",
+    "abreviacao": "Car",
+    "imagem": "imagens/cartas/carina.jpg",
+    "imagemOriginal": "imagens/constelacoes/carina.jpg",
+    "curiosidade": "Era parte do antigo navio Argo. Tem Canopus, a segunda estrela mais brilhante do céu, e a enorme Nebulosa da Carina."
+  },
+  {
+    "id": "cassiopeia",
+    "nome": "Cassiopeia",
+    "nomeLatim": "Cassiopeia",
+    "abreviacao": "Cas",
+    "imagem": "imagens/cartas/cassiopeia.jpg",
+    "imagemOriginal": "imagens/constelacoes/cassiopeia.jpg",
+    "curiosidade": "Fácil de achar pelo W (ou M) formado por cinco estrelas. Era a rainha vaidosa, mãe de Andrômeda."
+  },
+  {
+    "id": "centaurus",
+    "nome": "Centauro",
+    "nomeLatim": "Centaurus",
+    "abreviacao": "Cen",
+    "imagem": "imagens/cartas/centaurus.jpg",
+    "imagemOriginal": "imagens/constelacoes/centaurus.jpg",
+    "curiosidade": "Abriga Alfa Centauri, o sistema estelar mais próximo do Sol, e Ômega Centauri, o maior aglomerado globular da nossa galáxia."
+  },
+  {
+    "id": "cepheus",
+    "nome": "Cefeu",
+    "nomeLatim": "Cepheus",
+    "abreviacao": "Cep",
+    "imagem": "imagens/cartas/cepheus.jpg",
+    "imagemOriginal": "imagens/constelacoes/cepheus.jpg",
+    "curiosidade": "O rei da Etiópia, marido de Cassiopeia. Sua estrela Delta Cephei deu nome às cefeidas, usadas para medir distâncias no Universo."
+  },
+  {
+    "id": "cetus",
+    "nome": "Baleia",
+    "nomeLatim": "Cetus",
+    "abreviacao": "Cet",
+    "imagem": "imagens/cartas/cetus.jpg",
+    "imagemOriginal": "imagens/constelacoes/cetus.jpg",
+    "curiosidade": "Uma das maiores constelações do céu. Contém Mira, estrela variável cujo brilho muda bastante ao longo de meses."
+  },
+  {
+    "id": "corona-borealis",
+    "nome": "Coroa Boreal",
+    "nomeLatim": "Corona Borealis",
+    "abreviacao": "CrB",
+    "imagem": "imagens/cartas/corona-borealis.jpg",
+    "imagemOriginal": "imagens/constelacoes/corona-borealis.jpg",
+    "curiosidade": "Um semicírculo de estrelas que lembra uma coroa. Seria a coroa de Ariadne, lançada ao céu por Dionísio."
+  },
+  {
+    "id": "corvus",
+    "nome": "Corvo",
+    "nomeLatim": "Corvus",
+    "abreviacao": "Crv",
+    "imagem": "imagens/cartas/corvus.jpg",
+    "imagemOriginal": "imagens/constelacoes/corvus.jpg",
+    "curiosidade": "Pequeno quadrilátero bem visível do Brasil. Na mitologia, é o corvo enviado por Apolo que se atrasou e acabou castigado."
+  },
+  {
+    "id": "crux",
+    "nome": "Cruzeiro do Sul",
+    "nomeLatim": "Crux",
+    "abreviacao": "Cru",
+    "imagem": "imagens/cartas/crux.jpg",
+    "imagemOriginal": "imagens/constelacoes/crux.jpg",
+    "curiosidade": "A menor das 88 constelações. Está na bandeira do Brasil e seu braço maior aponta para o polo sul celeste."
+  },
+  {
+    "id": "cygnus",
+    "nome": "Cisne",
+    "nomeLatim": "Cygnus",
+    "abreviacao": "Cyg",
+    "imagem": "imagens/cartas/cygnus.jpg",
+    "imagemOriginal": "imagens/constelacoes/cygnus.jpg",
+    "curiosidade": "Também chamada de Cruz do Norte. Sua estrela Deneb forma o Triângulo de Verão, e a Via Láctea a atravessa."
+  },
+  {
+    "id": "delphinus",
+    "nome": "Golfinho",
+    "nomeLatim": "Delphinus",
+    "abreviacao": "Del",
+    "imagem": "imagens/cartas/delphinus.jpg",
+    "imagemOriginal": "imagens/constelacoes/delphinus.jpg",
+    "curiosidade": "Pequena e charmosa: quatro estrelas em losango mais uma na cauda. É o golfinho que salvou o músico Aríon."
+  },
+  {
+    "id": "draco",
+    "nome": "Dragão",
+    "nomeLatim": "Draco",
+    "abreviacao": "Dra",
+    "imagem": "imagens/cartas/draco.jpg",
+    "imagemOriginal": "imagens/constelacoes/draco.jpg",
+    "curiosidade": "Longa e sinuosa, serpenteia entre as duas Ursas. Sua estrela Thuban era a estrela polar na época das pirâmides do Egito."
+  },
+  {
+    "id": "gemini",
+    "nome": "Gêmeos",
+    "nomeLatim": "Gemini",
+    "abreviacao": "Gem",
+    "imagem": "imagens/cartas/gemini.jpg",
+    "imagemOriginal": "imagens/constelacoes/gemini.jpg",
+    "curiosidade": "Marcada por Castor e Pólux, as cabeças dos gêmeos. Constelação do zodíaco, bem visível no verão brasileiro."
+  },
+  {
+    "id": "hercules",
+    "nome": "Hércules",
+    "nomeLatim": "Hercules",
+    "abreviacao": "Her",
+    "imagem": "imagens/cartas/hercules.jpg",
+    "imagemOriginal": "imagens/constelacoes/hercules.jpg",
+    "curiosidade": "Contém M13, o aglomerado globular mais brilhante do céu do norte. Quatro estrelas centrais formam a figura da Pedra Angular."
+  },
+  {
+    "id": "leo",
+    "nome": "Leão",
+    "nomeLatim": "Leo",
+    "abreviacao": "Leo",
+    "imagem": "imagens/cartas/leo.jpg",
+    "imagemOriginal": "imagens/constelacoes/leo.jpg",
+    "curiosidade": "A parte da frente desenha uma foice, e a estrela principal é Regulus. Dela parece vir a chuva de meteoros das Leônidas."
+  },
+  {
+    "id": "lepus",
+    "nome": "Lebre",
+    "nomeLatim": "Lepus",
+    "abreviacao": "Lep",
+    "imagem": "imagens/cartas/lepus.jpg",
+    "imagemOriginal": "imagens/constelacoes/lepus.jpg",
+    "curiosidade": "Fica logo abaixo dos pés de Órion, como se estivesse fugindo dos cães de caça do caçador."
+  },
+  {
+    "id": "libra",
+    "nome": "Libra (a Balança)",
+    "nomeLatim": "Libra",
+    "abreviacao": "Lib",
+    "imagem": "imagens/cartas/libra.jpg",
+    "imagemOriginal": "imagens/constelacoes/libra.jpg",
+    "curiosidade": "Única constelação do zodíaco que representa um objeto, e não um ser vivo. Suas estrelas já foram consideradas as garras do Escorpião."
+  },
+  {
+    "id": "lyra",
+    "nome": "Lira",
+    "nomeLatim": "Lyra",
+    "abreviacao": "Lyr",
+    "imagem": "imagens/cartas/lyra.jpg",
+    "imagemOriginal": "imagens/constelacoes/lyra.jpg",
+    "curiosidade": "Pequena, mas tem Vega, uma das estrelas mais brilhantes do céu. Abriga a Nebulosa do Anel (M57)."
+  },
+  {
+    "id": "orion",
+    "nome": "Órion",
+    "nomeLatim": "Orion",
+    "abreviacao": "Ori",
+    "imagem": "imagens/cartas/orion.jpg",
+    "imagemOriginal": "imagens/constelacoes/orion.jpg",
+    "curiosidade": "A mais reconhecível do céu. Tem as Três Marias no cinturão, as supergigantes Betelgeuse e Rigel e a Nebulosa de Órion (M42)."
+  },
+  {
+    "id": "pavo",
+    "nome": "Pavão",
+    "nomeLatim": "Pavo",
+    "abreviacao": "Pav",
+    "imagem": "imagens/cartas/pavo.jpg",
+    "imagemOriginal": "imagens/constelacoes/pavo.jpg",
+    "curiosidade": "Constelação do céu do Sul, criada por navegadores no fim do século XVI. Sua estrela principal é conhecida como Peacock."
+  },
+  {
+    "id": "pegasus",
+    "nome": "Pégaso",
+    "nomeLatim": "Pegasus",
+    "abreviacao": "Peg",
+    "imagem": "imagens/cartas/pegasus.jpg",
+    "imagemOriginal": "imagens/constelacoes/pegasus.jpg",
+    "curiosidade": "Reconhecida pelo Quadrado de Pégaso, quatro estrelas formando um grande quadrilátero. É o cavalo alado da mitologia."
+  },
+  {
+    "id": "perseus",
+    "nome": "Perseu",
+    "nomeLatim": "Perseus",
+    "abreviacao": "Per",
+    "imagem": "imagens/cartas/perseus.jpg",
+    "imagemOriginal": "imagens/constelacoes/perseus.jpg",
+    "curiosidade": "O herói que venceu a Medusa. Sua estrela Algol é variável, apelidada de olho do demônio. Dela vem a chuva das Perseidas."
+  },
+  {
+    "id": "phoenix",
+    "nome": "Fênix",
+    "nomeLatim": "Phoenix",
+    "abreviacao": "Phe",
+    "imagem": "imagens/cartas/phoenix.jpg",
+    "imagemOriginal": "imagens/constelacoes/phoenix.jpg",
+    "curiosidade": "Constelação do céu do Sul que representa a ave que renasce das cinzas. Foi criada por navegadores holandeses."
+  },
+  {
+    "id": "pisces",
+    "nome": "Peixes",
+    "nomeLatim": "Pisces",
+    "abreviacao": "Psc",
+    "imagem": "imagens/cartas/pisces.jpg",
+    "imagemOriginal": "imagens/constelacoes/pisces.jpg",
+    "curiosidade": "Dois peixes ligados por uma fita. Nela fica o ponto vernal, referência para o sistema de coordenadas do céu."
+  },
+  {
+    "id": "sagittarius",
+    "nome": "Sagitário",
+    "nomeLatim": "Sagittarius",
+    "abreviacao": "Sgr",
+    "imagem": "imagens/cartas/sagittarius.jpg",
+    "imagemOriginal": "imagens/constelacoes/sagittarius.jpg",
+    "curiosidade": "Aponta para o centro da nossa galáxia. Suas estrelas centrais desenham a figura de um bule de chá."
+  },
+  {
+    "id": "scorpius",
+    "nome": "Escorpião",
+    "nomeLatim": "Scorpius",
+    "abreviacao": "Sco",
+    "imagem": "imagens/cartas/scorpius.jpg",
+    "imagemOriginal": "imagens/constelacoes/scorpius.jpg",
+    "curiosidade": "Uma das mais fáceis de reconhecer, pela longa cauda curva. Seu coração é Antares, uma supergigante vermelha."
+  },
+  {
+    "id": "taurus",
+    "nome": "Touro",
+    "nomeLatim": "Taurus",
+    "abreviacao": "Tau",
+    "imagem": "imagens/cartas/taurus.jpg",
+    "imagemOriginal": "imagens/constelacoes/taurus.jpg",
+    "curiosidade": "Tem o aglomerado das Plêiades (as Sete Estrelas) e as Híades, além da gigante alaranjada Aldebarã."
+  },
+  {
+    "id": "tucana",
+    "nome": "Tucano",
+    "nomeLatim": "Tucana",
+    "abreviacao": "Tuc",
+    "imagem": "imagens/cartas/tucana.jpg",
+    "imagemOriginal": "imagens/constelacoes/tucana.jpg",
+    "curiosidade": "Constelação do céu do Sul. Abriga a Pequena Nuvem de Magalhães e o belo aglomerado globular 47 Tucanae."
+  },
+  {
+    "id": "ursa-major",
+    "nome": "Ursa Maior",
+    "nomeLatim": "Ursa Major",
+    "abreviacao": "UMa",
+    "imagem": "imagens/cartas/ursa-major.jpg",
+    "imagemOriginal": "imagens/constelacoes/ursa-major.jpg",
+    "curiosidade": "Contém as sete estrelas da Grande Carroça. As duas estrelas da ponta apontam direto para a Estrela Polar."
+  },
+  {
+    "id": "ursa-minor",
+    "nome": "Ursa Menor",
+    "nomeLatim": "Ursa Minor",
+    "abreviacao": "UMi",
+    "imagem": "imagens/cartas/ursa-minor.jpg",
+    "imagemOriginal": "imagens/constelacoes/ursa-minor.jpg",
+    "curiosidade": "Na ponta da cauda está Polaris, a Estrela do Norte, que marca o polo norte celeste. Não é visível da maior parte do Brasil."
+  },
+  {
+    "id": "virgo",
+    "nome": "Virgem",
+    "nomeLatim": "Virgo",
+    "abreviacao": "Vir",
+    "imagem": "imagens/cartas/virgo.jpg",
+    "imagemOriginal": "imagens/constelacoes/virgo.jpg",
+    "curiosidade": "A segunda maior constelação do céu. Tem a estrela Spica e o aglomerado de galáxias de Virgem, com mais de mil galáxias."
+  }
+]
