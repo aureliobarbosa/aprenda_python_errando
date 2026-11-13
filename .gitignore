@@ -163,3 +163,16 @@ cython_debug/
 nohup.out
 geral/
 .vscode
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+*.swp
+*~
+.idea/
+
+# Ferramentas Python mais novas
+.ruff_cache/
