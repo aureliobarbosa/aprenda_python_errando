@@ -176,3 +176,30 @@ desktop.ini
 
 # Ferramentas Python mais novas
 .ruff_cache/
+
+# Agentes de IA
+#   Configurações, históricos e caches locais de assistentes de código.
+#   Arquivos de instrução compartilháveis (CLAUDE.md, AGENTS.md, GEMINI.md,
+#   .github/copilot-instructions.md) NÃO são ignorados de propósito; se algum
+#   dia o projeto fornecer configuração compartilhada para um desses agentes,
+#   remova a linha correspondente abaixo.
+.claude/
+CLAUDE.local.md
+.mcp.json
+.cursor/
+.windsurf/
+.codeium/
+.continue/
+.aider*
+.gemini/
+.codex/
+.roo/
+.cline/
+.amazonq/
+.junie/
+.copilot/
+
+# Containers de desenvolvimento
+#   O projeto ainda não fornece devcontainer; configurações pessoais ficam fora
+#   do repositório. Remova esta linha quando houver um devcontainer oficial.
+.devcontainer/
